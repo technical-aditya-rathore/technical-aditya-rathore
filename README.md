@@ -2,7 +2,7 @@
 # Hi, I'm Technical Aditya👋
 <br>
 
-### A dedicated student with a strong passion for web development and programming, driven by a desire to create innovative digital solutions and continuously improve their technical skills.
+### A dedicated and compassionate  student with a strong passion in data science,analytics and programming, driven by a desire to create innovative digital solutions and continuously improve technical skills.
 
 <div  style="background-color: transperant; display:inline-flex; flex-direction:row; justify-content:space-between; align-items:center;">I'm currently learning HTML, CSS, JavaScript for frontend development. I'm also expanding my knowledge in Python and have basic knowledge in C.</div>
 <br>
