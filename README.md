@@ -39,7 +39,7 @@
 
 ### Connect with Me
 
-<div  style="background-color: transperant; display:inline-flex; flex-direction:row; justify-content:space-between; align-items:center;">Just message | email me! 😊  I would love to connect with fellow developers and learn from their experiences.</div>
+<div  style="background-color: transperant; display:inline-flex; flex-direction:row; justify-content:space-between; align-items:center;">Just message | email me! 😊  I would love to connect with techies and psycho coders and learn from their experiences.</div>
 <br>
 <br>
 <br>
