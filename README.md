@@ -4,7 +4,7 @@
 
 ### A dedicated and compassionate  student with a strong passion in data science,analytics and programming, driven by a desire to create innovative digital solutions and continuously improve technical skills.
 
-<div  style="background-color: transperant; display:inline-flex; flex-direction:row; justify-content:space-between; align-items:center;">I'm currently learning HTML, CSS, JavaScript for frontend development. I'm also expanding my knowledge in Python and have basic knowledge in C.</div>
+<div  style="background-color: transperant; display:inline-flex; flex-direction:row; justify-content:space-between; align-items:center;">I'm currently practising and gaining knowledge in python and its libraries like numpy,pandas,...,sql,postgreSQL and having strong grab on few programming languages :-C,Javascript,html,css and also well use to with PowerBI,Tableau,(EDA).</div>
 <br>
 
 
@@ -28,10 +28,10 @@
 <br>
 
 ### About Me:
-
-* I'm currently learning **JavaScript and Python**, with a focus on building scalable and efficient applications.
-* I have basic knowledge of **C**, which has helped me understand the fundamentals of programming.
-* My expertise extends to **HTML and CSS**, where I work on crafting responsive and visually appealing web pages.
+* I'm  mostly dedicated in learning python and its important libraries,SQL,(EDA),Powerbi,Tableau.
+* I'm also learning **JavaScript and Python**, with a focus on building scalable and efficient applications.
+* I have good enough knowledge of **C**, which has helped me understand the fundamentals of programming.
+* My expertise extends to **DATA SCIENCE**,**DATA ANALYTICS**,**BUSINESS ANALYST** and also a midlevel Frontend Develepor with prior optimum knowledge to help in building websites.
 * All of my projects are available at  [Repository Tab](https://github.com/technical-aditya-rathore?tab=repositories), where you can explore my coding journey.
 * How to reach me: **technicaladityarathore@gmail.com**. I'm always open to collaborations and discussions about tech! 
 <br>
